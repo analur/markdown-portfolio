@@ -1,2 +1,2 @@
-* Love to play the guitar.
-* Love to study and learn.
+* **Love to study and learn**.
+* _Love to play the guitar_.
